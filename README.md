@@ -2,7 +2,7 @@
 
 We provide codebase for evaluating index techniques for conjunctive path queries.
 You can use this code to easily evaluate state-of-the-art indexes for conjunctive path queries on edge-labeled graphs.
-Additionally, we share datasets and workloads that we used experimental studies in SIGMOD2021. We note that we cannot upload Freebase dataset due to its size.
+Additionally, we share datasets and workloads that we used experimental studies in WWW2021. We note that we cannot upload Freebase dataset due to its size.
 
 
 ## Setup
